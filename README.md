@@ -1,29 +1,21 @@
-![Mariana Garza - Data Scientist, Software Developer, and Quantum Computing Enthusiast](https://link-to-your-banner-image)
+![Mariana Garza - Data Scientist, Software Developer, and Quantum Computing Enthusiast](my banner.png)
 
 ## Hi there 👋
 
-🌟 I’m a third-year Mathematics student at the Facultad de Ciencias Físico-Matemáticas, Universidad Autónoma de Nuevo León, with a passion for data science, software development, and quantum computing.  
-🚀 My journey involves diving deep into the realms of data analysis, software architecture, and advanced quantum theories, all while applying my skills to real-world challenges.  
+🌟 CS & Math student | Software Dev | data science & quantum computing | Advocate for girls and women programmers' community
+
+🚀 I'm deeply immersed in the world of STEM, bringing a unique blend of analytical thinking and problem-solving skills to my work due to my experience; all while applying my skills to real-world challenges.  
+
 🎓 I’m a proud recipient of scholarships from NASA and Google, where I've had the opportunity to expand my knowledge in cutting-edge technologies.  
-💡 I thrive on solving complex problems using data-driven methodologies, and I’m constantly learning new frameworks and tools to enhance my projects.  
-🤝 I’m eager to collaborate on projects related to data science, quantum computing, or software development.
 
-### 💻 Tech Stack:
-*Languages:*  
-Python | R | JavaScript | HTML5 | CSS3 | SQL
+🤝 I believe in the power of collaboration and mentorship to drive meaningful change in the tech industry so let's connect and empower each other to shape a more diverse and inclusive future in tech!
 
-*Frameworks & Libraries:*  
-Vue.js | Astro | Pandas | NumPy | TensorFlow | Scikit-learn
+[LinkedIn](https://www.linkedin.com/in/garza-cedillo/)  
+[Portfolio](https://astrolemonmar.com/)  
+[CV](https://drive.google.com/file/d/1tSZICEIfXdBELuO2p93mLzqfBGWxIR7s/view)
 
-*Tools & Technologies:*  
-Git | GitHub | Docker | Visual Studio Code | Tableau | Google Cloud | Azure | Firebase | Open Graph | Hostinger Website Builder
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrolemonmarafk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 Let’s Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marianagarza-blue)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://www.yourportfolio.com)
+![Trophies](https://github-profile-trophy.vercel.app/?username=astrolemonmarafk&theme=tokyonight)
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 🏆 Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
