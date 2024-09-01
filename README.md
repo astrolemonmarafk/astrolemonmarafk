@@ -1,4 +1,4 @@
-
+![Mariana Garza - Data Scientist, Software Developer, and Quantum Computing Enthusiast](banner.png)
 
 ## Hi there 👋
 
